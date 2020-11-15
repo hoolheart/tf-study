@@ -113,3 +113,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific
+logs/*
+tunner/*
+cp/*
+saved_model/*
